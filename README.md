@@ -60,9 +60,9 @@
 
  
 
-[website]: https://juandgo.com/
-[twitter]: https://x.com/GoJuand
-[youtube]: https://www.youtube.com/c/AminEspinoza
-[linkedin]: https://www.linkedin.com/in/juan-david-grijalba-osorio-623803232/
-[instagram]: https://www.instagram.com/aminespinoza10/
-[untappd]: https://untappd.com/user/aminespinoza
+[website]: https://.com/
+[twitter]: https://x.com/
+[youtube]: https://www.youtube.com/c/
+[linkedin]: https://www.linkedin.com/in/
+[instagram]: https://www.instagram.com/
+[untappd]: https://untappd.com/user/
